@@ -1,0 +1,8 @@
+
+encoders
+   - Implement decode function
+   - Add main() method to encode and decode
+
+main.py
+   - Create display/shell to access pwd manager
+  
